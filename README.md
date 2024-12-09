@@ -1,5 +1,5 @@
-- ## Approach 1:- Brute Force
-
+- ## Approach 1:- Brute Force (Time Limit Exceed)
+ 
     - ### Intuition
         The problem asks us to determine if subarrays defined by queries are "special." A subarray is special if every pair of adjacent elements in it has different parity (one is odd, the other is even). The goal is to efficiently check this property for each query.
 
