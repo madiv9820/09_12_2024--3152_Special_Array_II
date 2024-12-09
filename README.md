@@ -54,7 +54,7 @@
                     return answer
             ```
 
-            - **C++ Solution**
+        - **C++ Solution**
             ```cpp []
             class Solution {
             public:
